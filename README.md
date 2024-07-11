@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/abdulrhmankamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdulrhmankamel" height="30" width="40" /></a>
-  <a href="mailto:abdulrhmankamel81@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/abdulrhmankamel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdulrhmankamel" height="30" width="40" /></a>
+  <a href="mailto:abdulrhmankamel81@gmail.com" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/552/552486.png" alt="Email" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -96,4 +96,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
